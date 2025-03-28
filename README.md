@@ -40,8 +40,7 @@ Startups and Minimum Viable Products – Example: A new e-commerce platform wher
 Continuous Development and Improvement – Example: Cloud-based SaaS applications (e.g., CRM software) that require frequent updates and enhancements.
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
-
- Software Developer
+Software Developer
 Role: A Software Developer is responsible for designing, coding, and implementing software applications based on project requirements.
 Key Responsibilities:
 Writing, testing, and maintaining code following best practices.
